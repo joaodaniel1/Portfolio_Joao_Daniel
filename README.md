@@ -25,6 +25,12 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
    <ul>
       <li>Nos ensinar como produzir o nosso portfolio no aplicativo desejado, para melhor correção do professor.</li>
    </ul>
+   
+ Conhecimento Adquirido
+      
+ <ul>
+     <li>De como e fazer um portfolio das aulas  de uma determinada diciplina  em um aplicativo na internet</li>
+ </ul>
  
 
   
