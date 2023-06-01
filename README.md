@@ -16,5 +16,15 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
 
 </ul>
 
-  
+   Duvidas
+   <ul>
+     <li>De como realizar a entrada no  aplicativo  Git Hub, pois na aula em que se ensinava isso eu faltei a tive essa pequena dificuldade</li>
+   </ul>
+   
+   Objetivos da Aula
+   <ul>
+      <li>Nos ensinar como produzir o nosso portfolio no aplicativo desejado, para melhor correção do professor.</li>
+   </ul>
+ 
+
   
