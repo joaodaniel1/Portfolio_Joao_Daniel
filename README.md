@@ -32,5 +32,25 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
      <li>De como e fazer um portfolio das aulas  de uma determinada diciplina  em um aplicativo na internet</li>
  </ul>
  
+ Atividade do dia 19/05
+ 
+ <ul>
+   <li>Primeiro o professor nos explicou o conteudo</li>
+   <li>Apos a explicação o professor nos passou uma atividade para aprofundarmos nosso conhecimento sobre o assunto</li>
+ </ul>
+ 
+ Duvidas 
+ 
+ <ul>
+ <li>Minha duvida foi em como implantar o conteudo no aplicativo app script</li>
+ <li>E em como execultar o codigo eu tive um pouco de dificuldade</li>
+ </ul>
+ 
+ Objetivos da Aula
+ 
+ <ul>
+ <li>Nos ensinar como produzir a produzir uma execução de uma pagina no codigo.gs para nos mostrar uma comunicação de dados sem retornação de dados</li>
+ <li>
+ 
 
   
