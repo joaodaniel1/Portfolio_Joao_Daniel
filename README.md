@@ -107,6 +107,13 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
  <ul>
  <li>De como mandar uma mensagem para o servidor e ele responder</li>
  </ul>
- 
 
+ Atividade do dia 02/06
+
+ <ul>
+  <li>Primeiro o professor nos mandou terminar a atividade passada na aula passada</li>
+  <li>Quem ja tivesse terminado a atividade poderia nessa aula fazer o portfolio</li>
+  <li>Nessa aula eu passei fazendo o portfolio</li>
+ </ul>
+   Duvidas
   
