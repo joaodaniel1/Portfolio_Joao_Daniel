@@ -115,5 +115,29 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
   <li>Quem ja tivesse terminado a atividade poderia nessa aula fazer o portfolio</li>
   <li>Nessa aula eu passei fazendo o portfolio</li>
  </ul>
+   
+   
    Duvidas
   
+  <ul>
+   <li>So tive algumas na hora de fazer o portfolio, pois não lembrava de algumas coisas</li>
+  </ul>
+
+   Objetivos da Aula 
+
+   <ul>
+    <li>Nois alunos terminar a atividade da aula passada e quem tivesse terminado usar o tempo para fazer o portfolio</li>
+   </ul>
+
+  Conhecimento Adquirido
+
+  <ul>
+   <li>Pouco pois ja tinha feito a atividade e passei a aula fazendo o portfolio </li>
+  </ul>
+
+
+  Atividade do dia 14/06
+
+  <ul>
+   <li>O professor nos explicou o assunto e apos nos passou uma atividade para nos alunos aplicarmos nosso conhecimento</li>
+  </ul>
