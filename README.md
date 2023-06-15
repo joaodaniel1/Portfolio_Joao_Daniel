@@ -141,3 +141,9 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
   <ul>
    <li>O professor nos explicou o assunto e apos nos passou uma atividade para nos alunos aplicarmos nosso conhecimento</li>
   </ul>
+
+    Duvidas
+
+    <ul>
+     <li>Tive algumas na hora de fazer o codigo.gs pois ele era diferente mais o reto foi tudo bem</li>
+    </ul>
