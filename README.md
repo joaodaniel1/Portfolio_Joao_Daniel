@@ -147,3 +147,14 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
     <ul>
      <li>Tive algumas na hora de fazer o codigo.gs pois ele era diferente mais o reto foi tudo bem</li>
     </ul>
+
+
+Atividade do dia 15/06
+<ul>
+ <li>Nessa aula o professor nos ensinou a fazer uma planilha e um codigo.gs e guardalos em uma pasta do drive</li>
+</ul>
+
+Objetivo
+<ul>
+ <li>Nos ensinar como criar uma pasta no drive e colocar um arquivo do codigo.gs e uma planilha com as informaçôes do gs e fazer com que elas fiquem guardadas no nosso drive</li>
+</ul>
