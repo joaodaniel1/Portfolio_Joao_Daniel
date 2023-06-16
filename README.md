@@ -166,7 +166,63 @@ Atividade do dia 15/06
  <li>Nessa aula o professor nos ensinou a fazer uma planilha e um codigo.gs e guardalos em uma pasta do drive</li>
 </ul>
 
+Duvidas
+
+<ul>
+ <li>De como fazer a planilha e um pouco do codigo, mas todas as minhas duvidas foram tiradas</li>
+</ul>
+
 Objetivo
 <ul>
  <li>Nos ensinar como criar uma pasta no drive e colocar um arquivo do codigo.gs e uma planilha com as informaçôes do gs e fazer com que elas fiquem guardadas no nosso drive</li>
 </ul>
+
+Conhecimento Adquirido
+
+<ul>
+ <li>De como fazer um codigo no gs e mandar as repostas do formulario feito la para uma planilha organizada</li>
+</ul>
+
+Atividade do dia 16/06
+
+Nome do Projeto
+
+<ul>
+ <li>Meus dados pessoais</li>
+</ul>
+
+O que o sistema faz
+
+<ul>
+ <li></li>
+</ul>
+
+Quais as tecnologia utilizadas
+
+<ul>
+ <li></li>
+</ul>
+
+Integração entre uma Página HTML com a planilhado Google
+
+<ul>
+ <li></li>
+</ul>
+
+Código utilizado para salvar os dados na planilha
+
+<ul>
+ <li>var planilha = SpreadsheetApp.openById
+  ('1sEa4H6s7RcwwGQSzCbzLk7Oq5Txh4_5JRfwk_Zct7xk')
+
+  var tabela = planilha.getSheetByName('meus_dados')
+
+  tabela.appendRow([nomeAluno, dataNascimento, nomeResponsavel, endereco, bairro, numeroCasa, cidade, telefoneContato, serie, turma, turno])</li>
+</ul>
+
+Link do codigo
+
+<ul>
+ <li>https://script.google.com/macros/s/AKfycbwjg6d9NPRzWTxPrHmwVjcmrv7o1EMYraWx15ikTVItjIMp9YNhXLZPsUbshS8KUF0H/exec</li>
+</ul>
+
