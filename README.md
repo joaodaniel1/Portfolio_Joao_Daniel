@@ -145,8 +145,20 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
     Duvidas
 
     <ul>
-     <li>Tive algumas na hora de fazer o codigo.gs pois ele era diferente mais o reto foi tudo bem</li>
+     <li>Tive algumas na hora de fazer o codigo.gs pois ele era diferente mais o resto foi tudo bem</li>
     </ul>
+
+   Objetivos da Aula
+
+   <ul>
+    <li>Nos ensinar a fazer um codigo com quatro campos de texto que envie uma mensagem para o servidor e ele a devolva aparecendo a resposta do formulario respondido</li>
+   </ul>
+
+   Conhecimento Adquirido
+
+   <ul>
+    <li>Como fazer um formulario e o servidor mande a resposta desse formulario do que foi respondido</li>
+   </ul>
 
 
 Atividade do dia 15/06
