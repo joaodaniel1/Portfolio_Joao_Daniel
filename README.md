@@ -194,19 +194,19 @@ Nome do Projeto
 O que o sistema faz
 
 <ul>
- <li></li>
+ <li>Pega as respostas e as manda pelo link colocado no codigo HTML e manda as suas respostas diretamente para a planilha e as fica quardadas naquele local.</li>
 </ul>
 
 Quais as tecnologia utilizadas
 
 <ul>
- <li></li>
+ <li>O Google App Script, O Google Planilhas e o Drive</li>
 </ul>
 
 Integração entre uma Página HTML com a planilhado Google
 
 <ul>
- <li></li>
+ <li>Atraves do link colocado no codigo HTML que faz essa interação.</li>
 </ul>
 
 Código utilizado para salvar os dados na planilha
@@ -225,4 +225,3 @@ Link do codigo
 <ul>
  <li>https://script.google.com/macros/s/AKfycbwjg6d9NPRzWTxPrHmwVjcmrv7o1EMYraWx15ikTVItjIMp9YNhXLZPsUbshS8KUF0H/exec</li>
 </ul>
-
